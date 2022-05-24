@@ -1,0 +1,3 @@
+cadenaDeTexto = 'Hola mundo'
+print(cadenaDeTexto)
+print(type(cadenaDeTexto))
