@@ -1,0 +1,2 @@
+cadenaDeTexto = 5
+print(type(cadenaDeTexto)
